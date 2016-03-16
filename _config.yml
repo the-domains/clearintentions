@@ -1,0 +1,28 @@
+name: ClearIntentions
+favicon: null
+layout_spectrum: 0.7654673273209482
+typography_spectrum: 0.46236754092387855
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.49949761386960745
+  lightness: 0.0483718269970268
+  saturation: 0.25503640505485237
+  rhythmicContrast: 0.3015770730562508
+purpose: []
